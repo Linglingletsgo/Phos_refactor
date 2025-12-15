@@ -78,7 +78,7 @@ This project contains original code developed by **@LYCO6273**.
 
 ## 重构与更新 (Refactoring & Update)
 **@Dominic Duan**
-*   **GitHub**: [https://github.com/Linglingletsgo/](https://github.com/Linglingletsgo/)
+*   **GitHub**: [https://github.com/Linglingletsgo/Phos_refactor](https://github.com/Linglingletsgo/Phos_refactor)
 *   **Website**: [www.dominicduan.com](http://www.dominicduan.com)
 *   **Email**: lingonthebeat@gmail.com
 *   **小红书 (XiaoHongShu)**: @Linglingletsgo
