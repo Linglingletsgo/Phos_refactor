@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Phos specific
+output/
+*.jpg
+*.png
+*.ARW
+*.CR2
+*.DNG
